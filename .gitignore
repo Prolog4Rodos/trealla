@@ -17,3 +17,6 @@ tpl
 *#
 *.gcda
 faultinject*
+
+build/
+.cache/

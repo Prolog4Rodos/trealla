@@ -1,6 +1,10 @@
 Trealla Prolog
 ==============
 
+> ![NOTE]
+> This version is based on [v2.88.3](github.com/trealla-prolog/trealla/releases/tag/v2.88.3)
+> with commit `ae60c3d`.
+
 A compact, efficient Prolog interpreter with ISO Prolog aspirations.
 
 	MIT licensed
