@@ -18,7 +18,7 @@ This step is the first step beeing taken, to allow
 for a clearer comparison between each step of the migration
 by providing a mostly stable build process along the way.
 
-> ![NOTE]
+> [!TIP]
 > The new `Makefile` contains shortcuts/examples for using
 > the CMake setup.
 
